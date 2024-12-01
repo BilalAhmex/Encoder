@@ -1,5 +1,4 @@
 # Encoder
-# Huffman Coding Implementation
 
 ## Project Overview
 This project implements a Huffman coding system for efficient text compression and encoding. The implementation includes three core classes:
